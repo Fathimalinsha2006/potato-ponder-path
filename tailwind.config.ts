@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				potato: {
+					DEFAULT: 'hsl(var(--potato))',
+					foreground: 'hsl(var(--potato-foreground))'
+				},
+				rainbow: {
+					start: 'hsl(var(--rainbow-start))',
+					mid1: 'hsl(var(--rainbow-mid1))',
+					mid2: 'hsl(var(--rainbow-mid2))',
+					mid3: 'hsl(var(--rainbow-mid3))',
+					end: 'hsl(var(--rainbow-end))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',

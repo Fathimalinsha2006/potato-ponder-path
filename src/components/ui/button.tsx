@@ -18,6 +18,10 @@ const buttonVariants = cva(
           "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
+        danger: "bg-destructive text-destructive-foreground hover:bg-destructive/90 bounce-fun cartoon-font",
+        fun: "bg-primary text-primary-foreground hover:bg-primary/90 bounce-fun cartoon-font shadow-lg",
+        exit: "bg-destructive text-destructive-foreground hover:bg-destructive/80 fixed top-4 right-4 z-50 shadow-xl",
+        potato: "bg-potato text-potato-foreground hover:bg-potato/90 border-2 border-amber-600",
       },
       size: {
         default: "h-10 px-4 py-2",

@@ -47,13 +47,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+[*Add caption explaining what this shows*
+](https://drive.google.com/file/d/1jQwbKal-pJbQ3Wxy5pcC55m5Wu5pxvbw/view?usp=sharing)
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+(https://drive.google.com/file/d/1S--_fHPB3UpZUxMimU-wLIvVpDQU1lH_/view?usp=sharing)
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1Ca-V7tuySodIgW8ZyplKHiJ-_vVd5JnO/view?usp=sharing
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,7 +81,7 @@ For Hardware:
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+(https://drive.google.com/file/d/1azXZeWAN0qj5wjs3wCNnXLZo9ORa0VGX/view?usp=sharing)
 
 # Additional Demos
 [Add any extra demo materials/links]
